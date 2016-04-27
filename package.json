@@ -1,0 +1,25 @@
+{
+  "name": "mongoose-mocha-helper",
+  "version": "1.0.0",
+  "description": "Mongoose helpers to do unit testing with a real database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiselizondo/mongoose-mocha-helper.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mocha",
+    "test",
+    "unit"
+  ],
+  "author": "Luis Elizondo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luiselizondo/mongoose-mocha-helper/issues"
+  },
+  "homepage": "https://github.com/luiselizondo/mongoose-mocha-helper#readme"
+}
